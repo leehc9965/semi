@@ -17,16 +17,16 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
-	config/
+config/
 
 
-	**/templates/apiService/**
-	**/templates/layout/layout3.html
-	**/dist/api/**
+**/templates/apiService/**
+**/templates/layout/layout3.html
+**/dist/api/**
 
-	application.yml
-	MailSender.java
-	KakaoAuthService.java
+application.yml
+MailSender.java
+KakaoAuthService.java
 
 ### IntelliJ IDEA ###
 .idea
